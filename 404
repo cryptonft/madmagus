@@ -1,6 +1,7 @@
 {
   "id": 404,
-  "seed": 2419182837,
+  "dna": 20221011041821,
   "name": "Mage #404",
-  "description": "Casting spells to unrug the metaverse with cutting edge AI and all things tech"
+  "description": "Casting spells to unrug the metaverse with cutting edge AI and all things tech",
+  "image": "https://raw.githubusercontent.com/cryptonft/madmagus/main/404.png"
 }

@@ -1,6 +1,7 @@
 {
   "id": 1024,
-  "seed": 258308262,
+  "dna": 20221011202528,
   "name": "Mage #1024",
-  "description": "Casting spells to unrug the metaverse with cutting edge AI and all things tech"
+  "description": "Casting spells to unrug the metaverse with cutting edge AI and all things tech",
+  "image": "https://raw.githubusercontent.com/cryptonft/madmagus/main/1024.png"
 }
