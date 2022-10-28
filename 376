@@ -3,5 +3,11 @@
   "dna": 20221011040321,
   "name": "Mage #376",
   "description": "Casting spells to unrug the metaverse with cutting edge AI and all things tech",
-  "image": "https://raw.githubusercontent.com/cryptonft/madmagus/main/376.png"
+  "image": "https://raw.githubusercontent.com/cryptonft/madmagus/main/376.png",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "OG"
+    }
+  ]
 }
